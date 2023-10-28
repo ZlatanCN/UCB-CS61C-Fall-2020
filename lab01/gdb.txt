@@ -1,9 +1,9 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+1. set args ... then run OR directly run ...
+2. b func
+3. step
+4. next
+5. continue
+6. print [/format] expr, format includes x, d, u, o, t, a, c and f
+7. display [/format] expr
+8. info args
+9. quit
